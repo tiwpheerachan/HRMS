@@ -1,0 +1,90 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/auth/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/auth/login/page.js"
+    ],
+    "/(employee)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/layout.js"
+    ],
+    "/(employee)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/dashboard/page.js"
+    ],
+    "/(employee)/checkin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/checkin/page.js"
+    ],
+    "/(employee)/attendance/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/attendance/page.js"
+    ],
+    "/(employee)/leave/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/leave/page.js"
+    ],
+    "/(employee)/overtime/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/overtime/page.js"
+    ],
+    "/(employee)/payslip/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/payslip/page.js"
+    ],
+    "/(employee)/notifications/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/notifications/page.js"
+    ],
+    "/(employee)/profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(employee)/profile/page.js"
+    ],
+    "/(teamlead)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(teamlead)/layout.js"
+    ],
+    "/(teamlead)/teamlead/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(teamlead)/teamlead/dashboard/page.js"
+    ],
+    "/(teamlead)/teamlead/team/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(teamlead)/teamlead/team/page.js"
+    ],
+    "/(teamlead)/teamlead/approvals/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(teamlead)/teamlead/approvals/page.js"
+    ],
+    "/(teamlead)/teamlead/schedule/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(teamlead)/teamlead/schedule/page.js"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "/page": "app/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/(employee)/checkin/page": "app/(employee)/checkin/page.js",
+  "/(employee)/dashboard/page": "app/(employee)/dashboard/page.js",
+  "/(employee)/attendance/page": "app/(employee)/attendance/page.js",
+  "/(employee)/leave/page": "app/(employee)/leave/page.js",
+  "/(employee)/payslip/page": "app/(employee)/payslip/page.js",
+  "/(employee)/notifications/page": "app/(employee)/notifications/page.js",
+  "/(employee)/profile/page": "app/(employee)/profile/page.js",
+  "/(teamlead)/teamlead/dashboard/page": "app/(teamlead)/teamlead/dashboard/page.js",
+  "/(teamlead)/teamlead/team/page": "app/(teamlead)/teamlead/team/page.js",
+  "/(teamlead)/teamlead/approvals/page": "app/(teamlead)/teamlead/approvals/page.js",
+  "/(teamlead)/teamlead/schedule/page": "app/(teamlead)/teamlead/schedule/page.js"
+}
